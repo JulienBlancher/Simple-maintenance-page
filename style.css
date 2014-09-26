@@ -66,7 +66,7 @@ and (min-width : 1024px) {
 	html {
 		margin: 0;
 		padding: 0;
-		background: url('http://www.frenchdeal.biz/503/FrenchDeal_Coming-Soon.jpg') no-repeat top fixed;
+		background: url('./FrenchDeal_Coming-Soon.jpg') no-repeat top fixed;
 		background-size: cover;
 	}
 
